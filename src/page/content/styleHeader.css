@@ -1,0 +1,3 @@
+ul li {
+    @apply font-bold text-gray-300 mx-4 cursor-pointer pb-2;
+}
